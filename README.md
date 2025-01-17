@@ -1,5 +1,5 @@
 <h3>Installation</h3>
-Download and Install Python: https://www.python.org/downloads/ \n
+<p>Download and Install Python: https://www.python.org/downloads/</p>
 Create a virtual environment: python3 -m venv techforing_env \n
 Activate python environment: source techforing_env/bin/activate \n
 Install Django: https://docs.djangoproject.com/en/5.1/topics/install/ \n
